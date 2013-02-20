@@ -1,0 +1,10 @@
+connection:
+  server: jabber.com
+  conference_server: conference
+  port: 5222
+  safety_mode: 1
+  tls: 1
+bot:
+  alias: xmpp_bot
+  username: 
+  password: 
